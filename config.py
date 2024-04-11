@@ -1,6 +1,6 @@
-mongo = "mongodb+srv://akg:akg8894@cluster0.d6nstty.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-api_id = 29268693
-api_hash = "1ad7c3f7c78b8ca2a1888b757764ae03"
-bot_token = "6957418222:AAFws7XUzaWyZN2iEHatd2qq9QyRJrr_4"
-OWNER_ID = 6621610889
-session = "AwEd8owAuiAr95mPeOl1jDTSIh7dmaBCp2zgSilQ2ZVwkjPtOhvothJXSHe3uaP9Iw00STP5lECElvvMMksPzl69RzLD7lqAX-IlNFu1foEX7-BbeMf42zdguu4-6IISZu3knPQG87AShoOByDc_QRnfmx3fjCi0rX2cKtTO-SdP5N4QYSIzL7f8t4CPFpaKl7iZbPgxtPPmxc9bG6kWa2vxbz5CsPBKzSl7B-Oxi4pGB9hPQAeAHVs-6LyZaorO8Sf4ULTq8bObtdiURyl_EiivWhEtLSyd0NT7ByBv_XibhZGRpMXNB_GXTetpdBog89i09e9nJ4JIFdDnKJXlzbnl2BFUKAAAAAGnR33wAA"
+mongo = "mongodb+srv://cluster0:KoEMX9fCYbgJglGQ@cluster0.bdntoga.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+api_id = 15854294
+api_hash = "4354803af9e0a0f9333ba792fd5cc02b"
+bot_token = "6803719924:AAF7LnYaR79ZzWVzS7K4OIOv8MecS1jHZAs"
+OWNER_ID = 6435157112
+session = "BQBTo2iluHuZfla9HJ86pp4Keh_BYQW6SOB3gkkedrfdQv5tK2ThPoEp5nCSQ93xBDbKpGbMcqZgSWdHs4SfOhCCxZ_cBQ3exYIQ2005zZdpox4E9Guad57ORLdCcgH_CwIAm8obDB37YiUyAEXhzrEd21odRAwmf5yp5KKYm7dW9xa7h7GxY4TR_06QExMTyRdelZr_425d0Si3o-eX39_gKX48hpD0_cz1RdmJjqJcviExCTwPjP8xoBKZtiVrpT-jwUqW0H49eGQG6edOOW6UOhg7P-jm3AW65giJHsgb3zX0o9RCFvwtaoIcjANOYmCKqpLs0N32CGODUHZ2yDNpAAAAAX-QtHgA"
